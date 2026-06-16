@@ -1,8 +1,8 @@
 # 💰 Expense Sharing App - Splitwise Clone  
 
-[![Python Version](https://img.shields.io/badge/python-3.7+-blue.svg)](https://python.org)  
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)  
-[![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey)]()  
+[![Python Version](https://img.shields.io/badge/python-3.7+-blue.svg)](https://python.org)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey)]()
 
 A powerful expense sharing application that helps groups track shared expenses, calculate balances, and simplify debts. Perfect for roommates, friends, trips, and team expenses.  
 
