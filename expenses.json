@@ -1,0 +1,52 @@
+{
+  "groups": [
+    {
+      "name": "Tour",
+      "description": "dehradun",
+      "members": [
+        {
+          "name": "rohit",
+          "email": "",
+          "balance": 400.0
+        },
+        {
+          "name": "nigam",
+          "email": "",
+          "balance": -400.0
+        }
+      ],
+      "expenses": [
+        {
+          "expense_id": "202606161159530732",
+          "description": "food",
+          "amount": 800.0,
+          "paid_by": "rohit",
+          "split_type": "equal",
+          "participants": [
+            "rohit",
+            "nigam"
+          ],
+          "shares": {
+            "rohit": 400.0,
+            "nigam": 400.0
+          },
+          "date": "2026-06-16T11:59:53.519549"
+        }
+      ],
+      "created_date": "2026-06-16T11:57:46.192728"
+    },
+    {
+      "name": "4",
+      "description": "Delhi",
+      "members": [
+        {
+          "name": "ravi",
+          "email": "",
+          "balance": 0.0
+        }
+      ],
+      "expenses": [],
+      "created_date": "2026-06-16T11:58:10.229634"
+    }
+  ]
+}
